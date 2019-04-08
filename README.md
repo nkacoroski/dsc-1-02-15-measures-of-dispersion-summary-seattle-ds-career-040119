@@ -18,7 +18,7 @@ To truly understand our data, we also need **Measures of Dispersion**, namely, A
 In this lesson, we'll learn about these measures of dispersion, and explore the relationship between them, as well as their relationship with other summary statistics.
 
 
-### Abolute Deviation
+### Absolute Deviation
 
 **Absolute deviation** is the simplest way of calculating the dispersion in a dataset. This is calculated by taking a value from the data and subtracting the mean score. This helps identify the distance between a given value and mean i.e. how much the value deviates from the mean -  
 
